@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ Fun fact: I'm a java dev
+- 🔭 I’m currently working on:
+  - [2048! But in java!](https://github.com/SolDev69/2048Game)
+  - [This funky mod that does nothing right now!](https://github.com/SolDev69/zm2)
+  - [/zeblog/!](https://soldev69.github.io/zeblog/)
+  - and that's literally it!
+
+- ⚡ Fun fact: I'm a java dev, who barely knows any java
 
 [![SolDev69's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SolDev69)](https://github.com/anuraghazra/github-readme-stats)
 
